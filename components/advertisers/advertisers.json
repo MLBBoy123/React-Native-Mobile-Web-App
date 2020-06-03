@@ -1,0 +1,20 @@
+{
+  "advertisers": [
+    {
+      "name": "Bill Gates",
+      "id": 100,
+      "phone": "+881491274912948"
+    },
+    {
+      "name": "Elon Musk",
+      "id": 101,
+      "phone": "+865465491271296"
+    },
+    {
+      "name": "Mark Zuckerberg",
+      "id": 102,
+      "phone": "+865232323322278"
+    },
+    
+  ]
+}

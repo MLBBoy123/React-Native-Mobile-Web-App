@@ -1,0 +1,11 @@
+{
+  "name": "Elon Musk",
+  "picture":"https://upload.wikimedia.org/wikipedia/commons/e/ed/Elon_Musk_Royal_Society.jpg",
+  "id":  101,
+  "advert": [
+    {
+      "subject": "Tesla Car Sale",
+      "ad": "https://www.slashgear.com/wp-content/uploads/2016/01/autopilot-1.jpg",
+    },
+  ]
+}

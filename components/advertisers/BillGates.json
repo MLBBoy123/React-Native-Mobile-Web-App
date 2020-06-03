@@ -1,0 +1,17 @@
+{
+  "name": "Bill Gates",
+  "picture":"https://upload.wikimedia.org/wikipedia/commons/0/01/Bill_Gates_July_2014.jpg",
+  "id":  100,
+ 
+  "advert": [
+    {
+      "subject": "Microsoft Office 2019 Sale",
+      "ad": "https://i.pinimg.com/originals/bd/3b/1a/bd3b1a73c977fc06d5702b1f17da91ab.jpg"
+    },
+    {
+      "subject": "Microsoft Azure",
+      "ad": "https://pbs.twimg.com/media/DBQldFuXoAEhOLc.jpg",
+      
+    },
+  ]
+}
